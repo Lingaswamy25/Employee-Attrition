@@ -10,7 +10,7 @@ Artefact 5: Python Code – Dataset Validation and Preprocessing
 """
 
 # Install required packages in Google Colab if needed
-# pip install -q xgboost imbalanced-learn shap
+#pip install -q xgboost imbalanced-learn shap
 
 # ==========================================================
 # EMPLOYEE ATTRITION MACHINE LEARNING PROJECT
